@@ -349,7 +349,7 @@ public class Calculator {
 	} catch (InputMismatchException e1) {
 		System.out.println("cannot allow any input other than integer type");
 	}
-			s.next();	
+			//s.next();	
 			System.out.println("want to clear the total press c or C otherwise press any key to continue with same operation result");
 			
 			char ch1 = s.next().charAt(0);
